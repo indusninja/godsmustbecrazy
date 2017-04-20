@@ -1,0 +1,19 @@
+[Win] Audio\screamgroup2 100
+
+[Lose] Audio\win_condition_met 100
+
+[CometShoot] Audio\meteor_accelerate 100
+
+[CometHitHabitablePlanet] Audio\Comet_Impact_Planet 100
+
+[CometHitUnHabitablePlanet] Audio\Comet_impact_planet2 100
+
+[ShipLaunch] Audio\ship_launch 100
+
+[ShipDeath] Audio\screamgroup5 100
+
+[ShipLanding] Audio\Rocket_Arrive_planet 100
+
+[SolarFlare] Audio\Solar_Flare_shoot 100
+
+[Ambient] Audio\Soundtrack_loop 100

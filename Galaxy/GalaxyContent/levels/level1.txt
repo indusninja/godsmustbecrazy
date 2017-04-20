@@ -1,0 +1,21 @@
+#MeteorField: M;textureName;x;y;radius
+#Stars: S;textureName;mass;x;y
+#Planets: P;textureName;trajectoryMaxX;trajectoryMaxY;Mass;Population in Millions;Inhability (C = colonizable, U = Uninhabitable)
+S;Sun/Sun01;7;600;320
+P;Planets/PlanetHome01;125;75;2;5;C
+P;Planets/PlanetColonisable01;150;100;3;0;C
+P;Planets/PlanetColonisable02;225;150;4;0;C
+P;Planets/PlanetColonisable03;300;200;5;0;C
+P;Planets/PlanetHome02;375;250;6;7;C
+M;Meteor/Meteor;0;600;80
+M;Meteor/Meteor;0;450;80
+M;Meteor/Meteor;0;300;80
+M;Meteor/Meteor;0;150;80
+M;Meteor/Meteor;0;50;80
+M;Meteor/Meteor;150;0;70
+M;Meteor/Meteor;300;0;70
+M;Meteor/Meteor;450;0;70
+M;Meteor/Meteor;550;0;70
+M;Meteor/Meteor;700;0;70
+M;Meteor/Meteor;850;0;70
+M;Meteor/Meteor;1000;0;70

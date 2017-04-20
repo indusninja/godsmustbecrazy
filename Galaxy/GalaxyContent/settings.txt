@@ -1,0 +1,5 @@
+popstart=200000000
+popgrowth=4000000
+popcap=10000000000
+starMassContribution=1.00
+shippax=3000000000
